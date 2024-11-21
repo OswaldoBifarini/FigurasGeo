@@ -11,7 +11,10 @@ package ec.edu.espoc.figurasgeo;
 public class FigurasGeo {
 
     public static void main(String[] args) {
-        System.out.println("");
+        System.out.println("Practica 21/11/2024 ");
+        System.out.println("ESTE PROGRAMA CALCULA FIGURAS GEOMETRICAS");
+        
+        
         
     }
 }
